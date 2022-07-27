@@ -1,0 +1,11 @@
+.MainPage {
+  font-family: sans-serif;
+  text-align: center;
+
+}
+
+html,
+body
+{
+  background-color: rgb(254, 255, 206);
+}
