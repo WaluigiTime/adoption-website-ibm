@@ -6,7 +6,7 @@ export default function App() {
       <div className="Title">
         <h1>
           <u>
-            <i> AdoptDo </i>
+            <i> AdoptDo (test) </i>
           </u>
         </h1>
 
