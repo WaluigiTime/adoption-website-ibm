@@ -18,7 +18,13 @@ export default function App() {
         </p>
       </div>
 
-      <div className="AboutUs">Adopt children please. Please.</div>
+      <div className="AboutUs">
+        <p>
+          Adopt children please.
+          <br />
+          Please.
+        </p>
+      </div>
     </div>
   );
 }
